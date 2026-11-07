@@ -14,3 +14,4 @@
 - Entry #14: verified with gaearon
 - Entry #15: verified with antirez
 - Entry #16: verified with dchelimsky
+- Gold Tier Session #27: co-author octocat
