@@ -33,3 +33,4 @@
 - Gold Tier Session #43: co-author octocat
 - Gold Tier Session #44: co-author defunkt
 - Gold Tier Session #45: co-author mojombo
+- Gold Tier Session #46: co-author pjhyett
