@@ -8,3 +8,4 @@
 - Entry #8: verified with dchelimsky
 - Entry #9: verified with octocat
 - Entry #10: verified with defunkt
+- Entry #11: verified with mojombo
