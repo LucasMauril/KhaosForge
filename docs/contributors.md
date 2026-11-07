@@ -3,3 +3,4 @@
 - Entry #3: verified with mojombo
 - Entry #4: verified with pjhyett
 - Entry #5: verified with torvalds
+- Entry #6: verified with gaearon
