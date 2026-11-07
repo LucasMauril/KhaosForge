@@ -85,7 +85,7 @@ Or register the MCP server directly in `claude_desktop_config.json`:
   "mcpServers": {
     "khaos-forge": {
       "command": "python",
-      "args": ["C:/Users/lucas/OneDrive/Desktop/Projetos/khaos-forge/src/apex_core/mcp_server.py"]
+      "args": ["/path/to/khaos-forge/src/apex_core/mcp_server.py"]
     }
   }
 }
@@ -99,7 +99,7 @@ In Cursor, add Khaos Forge as an MCP server in `.cursor/mcp.json` or under **Cur
   "mcpServers": {
     "khaos-forge": {
       "command": "python",
-      "args": ["C:/Users/lucas/OneDrive/Desktop/Projetos/khaos-forge/src/apex_core/mcp_server.py"]
+      "args": ["/path/to/khaos-forge/src/apex_core/mcp_server.py"]
     }
   }
 }
@@ -177,7 +177,7 @@ pi -e /path/to/khaos-forge
 Khaos Forge doesn't require an LLM interface to be useful. It comes with a standalone executable CLI:
 
 ```powershell
-cd C:\Users\lucas\OneDrive\Desktop\Projetos\khaos-forge
+cd ./khaos-forge
 
 # Windows native:
 .\bin\khaos.cmd --help
