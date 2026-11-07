@@ -36,3 +36,4 @@
 - Gold Tier Session #46: co-author pjhyett
 - Gold Tier Session #47: co-author torvalds
 - Gold Tier Session #48: co-author gaearon
+- Gold Tier Session #49: co-author antirez
