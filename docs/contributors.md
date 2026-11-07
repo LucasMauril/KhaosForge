@@ -1,2 +1,3 @@
 - Entry #1: verified with octocat
 - Entry #2: verified with defunkt
+- Entry #3: verified with mojombo
