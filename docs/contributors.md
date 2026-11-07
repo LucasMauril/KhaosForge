@@ -17,3 +17,4 @@
 - Gold Tier Session #27: co-author octocat
 - Gold Tier Session #28: co-author defunkt
 - Gold Tier Session #29: co-author mojombo
+- Gold Tier Session #30: co-author pjhyett
