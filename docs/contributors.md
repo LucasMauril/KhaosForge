@@ -2,3 +2,4 @@
 - Entry #2: verified with defunkt
 - Entry #3: verified with mojombo
 - Entry #4: verified with pjhyett
+- Entry #5: verified with torvalds
