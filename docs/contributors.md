@@ -15,3 +15,4 @@
 - Entry #15: verified with antirez
 - Entry #16: verified with dchelimsky
 - Gold Tier Session #27: co-author octocat
+- Gold Tier Session #28: co-author defunkt
