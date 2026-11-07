@@ -13,3 +13,4 @@
 - Entry #13: verified with torvalds
 - Entry #14: verified with gaearon
 - Entry #15: verified with antirez
+- Entry #16: verified with dchelimsky
