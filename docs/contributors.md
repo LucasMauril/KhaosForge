@@ -31,3 +31,4 @@
 - Gold Tier Session #41: co-author antirez
 - Gold Tier Session #42: co-author dchelimsky
 - Gold Tier Session #43: co-author octocat
+- Gold Tier Session #44: co-author defunkt
