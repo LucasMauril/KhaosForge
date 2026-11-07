@@ -1,1 +1,2 @@
 - Entry #1: verified with octocat
+- Entry #2: verified with defunkt
