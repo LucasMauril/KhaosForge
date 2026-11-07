@@ -10,3 +10,4 @@
 - Entry #10: verified with defunkt
 - Entry #11: verified with mojombo
 - Entry #12: verified with pjhyett
+- Entry #13: verified with torvalds
