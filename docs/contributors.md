@@ -11,3 +11,4 @@
 - Entry #11: verified with mojombo
 - Entry #12: verified with pjhyett
 - Entry #13: verified with torvalds
+- Entry #14: verified with gaearon
