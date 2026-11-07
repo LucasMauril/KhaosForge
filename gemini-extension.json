@@ -1,6 +1,7 @@
 {
   "name": "apex-cybersecurity-skills",
   "version": "1.0.0",
+  "author": "dj",
   "description": "Enterprise-grade autonomous penetration testing, DevSecOps, and red team agent skills framework.",
   "skills": "./skills",
   "mcpServers": {

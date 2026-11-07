@@ -150,6 +150,14 @@ OK
 
 ---
 
+## 👤 Author & Architecture Lead
+
+* **Author:** dj
+* **Framework:** Apex Cybersecurity Skills Framework
+* **Ecosystem:** Autonomous Agents, DevSecOps & Cognitive Security Swarms
+
+---
+
 ## 🛡️ License
 
-Licensed under the [Apache License, Version 2.0](LICENSE).
+Copyright (c) 2026 dj. Licensed under the [Apache License, Version 2.0](LICENSE).

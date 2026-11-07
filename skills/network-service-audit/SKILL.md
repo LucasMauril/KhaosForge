@@ -1,5 +1,6 @@
 ---
 name: network-service-audit
+author: dj
 description: Use when auditing network infrastructure, Active Directory environments, SMB shares, SSH/RDP services, and internal routing.
 ---
 

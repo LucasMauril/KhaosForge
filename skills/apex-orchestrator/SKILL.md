@@ -1,5 +1,6 @@
 ---
 name: apex-orchestrator
+author: dj
 description: Use when launching, managing, or coordinating autonomous penetration tests, multi-agent swarms, and cognitive task trees across targets.
 ---
 

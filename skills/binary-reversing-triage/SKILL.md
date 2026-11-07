@@ -1,5 +1,6 @@
 ---
 name: binary-reversing-triage
+author: dj
 description: Use when analyzing compiled binaries (ELF/PE), decompiling proprietary daemons, auditing firmware, or evaluating binary exploit mitigations.
 ---
 
