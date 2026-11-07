@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  apex-tools-sandbox:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile.tools
+    container_name: apex-tools-sandbox
+    restart: unless-stopped
+    volumes:
+      - ../storage:/workspace/storage
+    command: tail -f /dev/null
+    networks:
+      - apex-net
+
+networks:
+  apex-net:
+    driver: bridge

@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+node_modules/
+.DS_Store
+*.log
+storage/sessions/*
+!storage/sessions/.gitkeep
+storage/targets/*
+!storage/targets/.gitkeep
+.env

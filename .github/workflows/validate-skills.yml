@@ -1,0 +1,37 @@
+name: Validate Skills & Test Core
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run Unit Tests
+        run: |
+          python -m unittest discover -s tests
+
+      - name: Validate SKILL.md Frontmatter
+        run: |
+          python -c "
+          from pathlib import Path
+          import sys
+          skills = list(Path('skills').rglob('SKILL.md'))
+          print(f'Validating {len(skills)} skills...')
+          for s in skills:
+              content = s.read_text(encoding='utf-8')
+              assert content.startswith('---'), f'{s} missing YAML frontmatter'
+              assert 'name:' in content, f'{s} missing name'
+              assert 'description:' in content, f'{s} missing description'
+          print('All skills validated successfully!')
+          "

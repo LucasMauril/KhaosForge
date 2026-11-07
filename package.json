@@ -1,0 +1,24 @@
+{
+  "name": "apex-cybersecurity-skills",
+  "version": "1.0.0",
+  "description": "Enterprise-grade autonomous penetration testing, DevSecOps, and red team agent skills framework for Claude Code, Antigravity, and MCP harnesses.",
+  "main": "src/apex_core/mcp_server.py",
+  "scripts": {
+    "test": "python -m unittest discover -s tests",
+    "validate": "python scripts/validate_skills.py",
+    "docker:build": "docker build -t apex-tools-sandbox -f docker/Dockerfile.tools ."
+  },
+  "keywords": [
+    "cybersecurity",
+    "penetration-testing",
+    "red-team",
+    "agentic-ai",
+    "mcp",
+    "model-context-protocol",
+    "devsecops",
+    "mitre-attack",
+    "owasp"
+  ],
+  "author": "dj",
+  "license": "Apache-2.0"
+}

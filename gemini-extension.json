@@ -1,0 +1,12 @@
+{
+  "name": "apex-cybersecurity-skills",
+  "version": "1.0.0",
+  "description": "Enterprise-grade autonomous penetration testing, DevSecOps, and red team agent skills framework.",
+  "skills": "./skills",
+  "mcpServers": {
+    "apex-pentest": {
+      "command": "python",
+      "args": ["src/apex_core/mcp_server.py"]
+    }
+  }
+}
