@@ -26,3 +26,4 @@
 - Gold Tier Session #36: co-author defunkt
 - Gold Tier Session #37: co-author mojombo
 - Gold Tier Session #38: co-author pjhyett
+- Gold Tier Session #39: co-author torvalds
