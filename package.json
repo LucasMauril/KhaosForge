@@ -2,12 +2,15 @@
   "name": "khaos-forge",
   "version": "1.0.0",
   "description": "Autonomous cybersecurity forge, red team swarms, and DevSecOps superpowers. Built by dj.",
-  "main": "src/apex_core/mcp_server.py",
+  "main": "index.js",
   "bin": {
-    "khaos": "./bin/khaos"
+    "khaos": "./bin/khaos",
+    "khaos-forge": "./index.js"
   },
   "scripts": {
     "test": "python -m unittest discover -s tests",
+    "test:sh": "bash scripts/run-tests.sh",
+    "test:win": "scripts\\run-tests.cmd",
     "khaos": "python src/apex_core/cli.py",
     "sync": "python scripts/sync_references.py",
     "docker:build": "docker build -t khaos-tools-sandbox -f docker/Dockerfile.tools ."
