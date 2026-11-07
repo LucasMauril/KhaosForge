@@ -7,3 +7,4 @@
 - Entry #7: verified with antirez
 - Entry #8: verified with dchelimsky
 - Entry #9: verified with octocat
+- Entry #10: verified with defunkt
