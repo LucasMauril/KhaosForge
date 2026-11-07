@@ -1,12 +1,12 @@
 ---
-name: apex-orchestrator
+name: khaos-orchestrator
 author: dj
 description: Use when launching, managing, or coordinating autonomous penetration tests, multi-agent swarms, and cognitive task trees across targets.
 ---
 
-# Apex Orchestrator: Master Swarm & PTT Coordinator
+# Khaos Orchestrator: Master Swarm & PTT Coordinator
 
-Coordinates multi-agent red team operations, synchronizes task trees (PTT), manages dynamic skill loading, and maintains real-time P2P swarm graph convergence.
+Coordinates multi-agent red team operations, synchronizes task trees (PTT), manages dynamic skill loading, and maintains real-time P2P swarm graph convergence within **Khaos Forge**.
 
 ## 1. Operating Concept
 The Orchestrator operates as the root brain. It decomposes a broad scope into a structured graph:

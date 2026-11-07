@@ -1,4 +1,4 @@
-# ⚡ Apex Powers
+# 🔥 Khaos Forge
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-brightgreen.svg)](https://www.python.org/)
@@ -6,18 +6,18 @@
 [![Author](https://img.shields.io/badge/Author-dj-red.svg)](https://github.com/dj)
 [![Build](https://img.shields.io/badge/Build-Passing-success.svg)](.github/workflows/validate-skills.yml)
 
-> **Cybersecurity Superpowers for Autonomous Agents & Operators.**
+> **Autonomous Cybersecurity Forge, Red Team Swarms & DevSecOps Engine.**
 > Built by **dj**. Engineered for **Claude Code**, **Google Antigravity**, **Cursor**, **Codex**, and **terminal operators**.
 
 ---
 
 ## ⚡ Slash Commands Matrix
 
-Like superpowers, Apex Powers arms agents and human operators with instant high-impact commands:
+Khaos Forge arms agents and human operators with instant high-impact commands:
 
 | Command | Action | Operational Runbook |
 | :--- | :--- | :--- |
-| **`/apex <target>`** | Launch autonomous pentest loop and PTT orchestrator | `skills/apex-orchestrator` |
+| **`/khaos <target>`** | Launch autonomous pentest loop and PTT orchestrator | `skills/khaos-orchestrator` |
 | **`/recon <target>`** | Passive OSINT, port scanning, and HTTP probing | `skills/recon-asset-discovery` |
 | **`/web-audit <url>`** | OWASP WSTG web, GraphQL, JWT, and API assessment | `skills/web-vulnerability-audit` |
 | **`/net-audit <ip>`** | Active Directory, Kerberos, SMB, and network services | `skills/network-service-audit` |
@@ -32,7 +32,7 @@ Like superpowers, Apex Powers arms agents and human operators with instant high-
 
 ## 🏛️ Foundations: The 11 Repositories Synthesis
 
-Apex Powers unifies the architectures of 11 landmark security and agentic repositories:
+Khaos Forge unifies the architectures of 11 landmark security and agentic repositories:
 
 1. **[henriqqw/KhaosMCP-Pentester-Agent](https://github.com/henriqqw/KhaosMCP-Pentester-Agent):** Scope boundary enforcement and cryptographic evidence gates.
 2. **[GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT):** Pentest Task Tree (PTT) cognitive state machine.
@@ -50,17 +50,17 @@ Apex Powers unifies the architectures of 11 landmark security and agentic reposi
 
 ## 💻 CLI Usage (Terminal Operator Mode)
 
-Apex Powers includes a standalone CLI executable in `bin/`:
+Khaos Forge includes a standalone CLI executable in `bin/`:
 
 ```bash
 # Verify or enforce scope
-./bin/apex scope-lock --domains target.com --cidrs 192.168.1.0/24 --check api.target.com
+./bin/khaos scope-lock --domains target.com --cidrs 192.168.1.0/24 --check api.target.com
 
 # Launch surface discovery
-./bin/apex recon target.com
+./bin/khaos recon target.com
 
 # Cryptographically verify candidate finding
-./bin/apex verify-poc --vuln-type "SQLi" --target "https://target.com/api" \
+./bin/khaos verify-poc --vuln-type "SQLi" --target "https://target.com/api" \
   --poc "curl -s 'https://target.com/api?id=1%27'" \
   --req "GET /api?id=1' HTTP/1.1" \
   --res "SQL syntax error near..." \
@@ -74,7 +74,7 @@ Apex Powers includes a standalone CLI executable in `bin/`:
 ### 1. Google Antigravity
 Clone directly into your global skills or workspace:
 ```bash
-git clone https://github.com/SEU_USUARIO/apex-powers.git ~/.agents/skills/apex-powers
+git clone https://github.com/SEU_USUARIO/khaos-forge.git ~/.agents/skills/khaos-forge
 ```
 
 ### 2. Claude Code / Cursor MCP
@@ -82,10 +82,10 @@ Add the server entry to your MCP configuration:
 ```json
 {
   "mcpServers": {
-    "apex-powers": {
+    "khaos-forge": {
       "command": "python",
       "args": [
-        "C:/Users/lucas/OneDrive/Desktop/Projetos/apex-powers/src/apex_core/mcp_server.py"
+        "C:/Users/lucas/OneDrive/Desktop/Projetos/khaos-forge/src/apex_core/mcp_server.py"
       ]
     }
   }
@@ -105,5 +105,5 @@ python -m unittest discover -s tests
 ## 👤 Author & Maintainer
 
 * **Author:** dj
-* **Framework:** Apex Powers
+* **Framework:** Khaos Forge
 * **License:** Apache License 2.0 (Copyright 2026 dj)

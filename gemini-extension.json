@@ -1,12 +1,12 @@
 {
-  "name": "apex-powers",
+  "name": "khaos-forge",
   "version": "1.0.0",
   "author": "dj",
-  "description": "Cybersecurity superpowers for autonomous AI agents, red teams, and DevSecOps.",
+  "description": "Autonomous cybersecurity forge, red team swarms, and DevSecOps superpowers.",
   "skills": "./skills",
   "contextFileName": "GEMINI.md",
   "mcpServers": {
-    "apex-pentest": {
+    "khaos-forge": {
       "command": "python",
       "args": ["src/apex_core/mcp_server.py"]
     }

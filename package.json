@@ -1,18 +1,19 @@
 {
-  "name": "apex-powers",
+  "name": "khaos-forge",
   "version": "1.0.0",
-  "description": "Cybersecurity superpowers for autonomous AI agents, red teams, and DevSecOps. Built by dj.",
+  "description": "Autonomous cybersecurity forge, red team swarms, and DevSecOps superpowers. Built by dj.",
   "main": "src/apex_core/mcp_server.py",
   "bin": {
-    "apex": "./bin/apex"
+    "khaos": "./bin/khaos"
   },
   "scripts": {
     "test": "python -m unittest discover -s tests",
-    "apex": "python src/apex_core/cli.py",
-    "docker:build": "docker build -t apex-tools-sandbox -f docker/Dockerfile.tools ."
+    "khaos": "python src/apex_core/cli.py",
+    "sync": "python scripts/sync_references.py",
+    "docker:build": "docker build -t khaos-tools-sandbox -f docker/Dockerfile.tools ."
   },
   "keywords": [
-    "superpowers",
+    "khaos-forge",
     "cybersecurity",
     "penetration-testing",
     "red-team",

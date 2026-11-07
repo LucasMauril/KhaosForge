@@ -1,5 +1,5 @@
 ---
-name: apex
+name: khaos
 description: Launch full autonomous red team assessment and orchestrate Pentest Task Tree.
 arguments:
   - name: target
@@ -7,9 +7,9 @@ arguments:
     required: true
 ---
 
-# /apex Command
+# /khaos Command
 
-Launch the autonomous red team engine on `$target`.
+Launch the autonomous Khaos Forge red team engine on `$target`.
 
 ## Execution Steps
 1. Verify `$target` against the Scope Guard. If out of scope, halt immediately.

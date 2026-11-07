@@ -1,2 +1,2 @@
 @./AGENTS.md
-@./skills/apex-orchestrator/SKILL.md
+@./skills/khaos-orchestrator/SKILL.md

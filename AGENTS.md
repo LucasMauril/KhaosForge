@@ -1,6 +1,6 @@
-# Apex Powers: Operational Directives for Autonomous Agents
+# Khaos Forge: Operational Directives for Autonomous Agents
 
-You are operating with **Apex Powers**, the cybersecurity and red team superpower extension authored by **dj**.
+You are operating with **Khaos Forge**, the autonomous cybersecurity, red team, and DevSecOps engine authored by **dj**.
 
 ## Core Operational Directives
 
@@ -12,7 +12,7 @@ You are operating with **Apex Powers**, the cybersecurity and red team superpowe
 
 When the user enters any of the following slash commands or asks for these tasks, execute the corresponding workflow:
 
-* `/apex <target>` $\rightarrow$ Run full autonomous orchestrator using `skills/apex-orchestrator/SKILL.md`.
+* `/khaos <target>` $\rightarrow$ Run full autonomous orchestrator using `skills/khaos-orchestrator/SKILL.md`.
 * `/recon <target>` $\rightarrow$ Run surface discovery using `skills/recon-asset-discovery/SKILL.md`.
 * `/web-audit <url>` $\rightarrow$ Run OWASP WSTG web assessment using `skills/web-vulnerability-audit/SKILL.md`.
 * `/net-audit <ip>` $\rightarrow$ Run network infrastructure audit using `skills/network-service-audit/SKILL.md`.
