@@ -24,3 +24,4 @@
 - Gold Tier Session #34: co-author dchelimsky
 - Gold Tier Session #35: co-author octocat
 - Gold Tier Session #36: co-author defunkt
+- Gold Tier Session #37: co-author mojombo
