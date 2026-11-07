@@ -62,8 +62,8 @@ def cmd_verify_poc(args):
 
 def main():
     parser = argparse.ArgumentParser(
-        prog="apex",
-        description="Apex Powers: Cybersecurity Superpowers for Autonomous Agents & Operators (by dj)"
+        prog="khaos",
+        description="Khaos Forge: Autonomous Cybersecurity & Red Team Engine (by dj)"
     )
     subparsers = parser.add_subparsers(dest="command", required=True)
 
