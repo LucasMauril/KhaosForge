@@ -9,3 +9,4 @@
 - Entry #9: verified with octocat
 - Entry #10: verified with defunkt
 - Entry #11: verified with mojombo
+- Entry #12: verified with pjhyett
