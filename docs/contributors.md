@@ -4,3 +4,4 @@
 - Entry #4: verified with pjhyett
 - Entry #5: verified with torvalds
 - Entry #6: verified with gaearon
+- Entry #7: verified with antirez
