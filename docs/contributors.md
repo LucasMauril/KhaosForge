@@ -19,3 +19,4 @@
 - Gold Tier Session #29: co-author mojombo
 - Gold Tier Session #30: co-author pjhyett
 - Gold Tier Session #31: co-author torvalds
+- Gold Tier Session #32: co-author gaearon
