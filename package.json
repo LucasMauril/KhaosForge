@@ -26,5 +26,7 @@
     "owasp"
   ],
   "author": "dj",
+  "repository": "https://github.com/LucasMauril/Khaos-Forge.git",
+  "homepage": "https://github.com/LucasMauril/Khaos-Forge#readme",
   "license": "Apache-2.0"
 }

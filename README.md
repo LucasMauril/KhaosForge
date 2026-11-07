@@ -63,11 +63,11 @@ Installation differs by harness. If you use more than one, install Khaos Forge s
 
 Install Khaos Forge as a plugin or skill from this repository:
 ```bash
-agy plugin install https://github.com/SEU_USUARIO/khaos-forge
+agy plugin install https://github.com/LucasMauril/Khaos-Forge
 ```
 Or clone it directly into your global agent skills folder:
 ```bash
-git clone https://github.com/SEU_USUARIO/khaos-forge.git ~/.agents/skills/khaos-forge
+git clone https://github.com/LucasMauril/Khaos-Forge.git ~/.agents/skills/khaos-forge
 ```
 Antigravity automatically loads the `GEMINI.md` context and exposes all slash commands (`/khaos`, `/recon`, `/web-audit`, etc.).
 
@@ -109,19 +109,19 @@ In Cursor, add Khaos Forge as an MCP server in `.cursor/mcp.json` or under **Cur
 
 In the Codex App:
 1. Open **Plugins** in the sidebar.
-2. Add custom repository: `https://github.com/SEU_USUARIO/khaos-forge`.
+2. Add custom repository: `https://github.com/LucasMauril/Khaos-Forge`.
 3. Follow the prompts to enable.
 
 In Codex CLI:
 ```bash
-codex plugins install https://github.com/SEU_USUARIO/khaos-forge
+codex plugins install https://github.com/LucasMauril/Khaos-Forge
 ```
 
 ### Devin CLI
 
 Install the plugin from this repository:
 ```bash
-devin plugins install SEU_USUARIO/khaos-forge
+devin plugins install LucasMauril/Khaos-Forge
 ```
 Update to the latest version with:
 ```bash
@@ -132,7 +132,7 @@ devin plugins update khaos-forge
 
 Install the extension:
 ```bash
-gemini extensions install https://github.com/SEU_USUARIO/khaos-forge
+gemini extensions install https://github.com/LucasMauril/Khaos-Forge
 ```
 Update later with:
 ```bash
@@ -143,7 +143,7 @@ gemini extensions update khaos-forge
 
 Register and install the plugin:
 ```bash
-copilot plugin marketplace add SEU_USUARIO/khaos-forge
+copilot plugin marketplace add LucasMauril/Khaos-Forge
 copilot plugin install khaos-forge
 ```
 
@@ -158,14 +158,14 @@ grok plugin install khaos-forge@custom --trust
 
 Tell OpenCode:
 ```
-Fetch and follow instructions from https://raw.githubusercontent.com/SEU_USUARIO/khaos-forge/main/rules/AGENTS.md
+Fetch and follow instructions from https://raw.githubusercontent.com/LucasMauril/Khaos-Forge/main/rules/AGENTS.md
 ```
 
 ### Pi
 
 Install Khaos Forge as a Pi package from this repository:
 ```bash
-pi install git:github.com/SEU_USUARIO/khaos-forge
+pi install git:github.com/LucasMauril/Khaos-Forge
 ```
 For local development:
 ```bash
@@ -231,8 +231,8 @@ Khaos Forge provides three layers of defense:
 
 Khaos Forge is engineered by **dj**.
 * **Lead Architect:** **dj**
-* **Repository:** `https://github.com/SEU_USUARIO/khaos-forge`
-* **Issues & Bug Reports:** `https://github.com/SEU_USUARIO/khaos-forge/issues`
+* **Repository:** `https://github.com/LucasMauril/Khaos-Forge`
+* **Issues & Bug Reports:** `https://github.com/LucasMauril/Khaos-Forge/issues`
 
 ---
 
