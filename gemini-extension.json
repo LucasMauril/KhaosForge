@@ -1,9 +1,10 @@
 {
-  "name": "apex-cybersecurity-skills",
+  "name": "apex-powers",
   "version": "1.0.0",
   "author": "dj",
-  "description": "Enterprise-grade autonomous penetration testing, DevSecOps, and red team agent skills framework.",
+  "description": "Cybersecurity superpowers for autonomous AI agents, red teams, and DevSecOps.",
   "skills": "./skills",
+  "contextFileName": "GEMINI.md",
   "mcpServers": {
     "apex-pentest": {
       "command": "python",

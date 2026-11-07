@@ -1,18 +1,19 @@
 {
-  "$schema": "https://json.schemastore.org/partial-package.json",
-  "name": "apex-cybersecurity-skills",
+  "name": "apex-powers",
   "version": "1.0.0",
-  "description": "Modular autonomous penetration testing, DevSecOps, and red team skill framework.",
+  "description": "Cybersecurity superpowers for autonomous AI agents, red teams, and DevSecOps. Built by dj.",
   "publisher": "dj",
-  "skills": [
-    "./skills/apex-orchestrator",
-    "./skills/scope-and-evidence-gate",
-    "./skills/recon-asset-discovery",
-    "./skills/web-vulnerability-audit",
-    "./skills/network-service-audit",
-    "./skills/binary-reversing-triage",
-    "./skills/telemetry-stealth-monitor",
-    "./skills/devsecops-pipeline-guard",
-    "./skills/executive-threat-reporting"
+  "commands": "./commands",
+  "skills": "./skills",
+  "suggestedPrompts": [
+    "/apex target.com",
+    "/recon target.com",
+    "/web-audit https://target.com",
+    "/net-audit 192.168.1.0/24",
+    "/bin-triage binary.elf",
+    "/scope-lock target.com,10.0.0.0/16",
+    "/verify-poc",
+    "/devsecops",
+    "/threat-report"
   ]
 }
