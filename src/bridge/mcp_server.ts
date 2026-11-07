@@ -1,6 +1,6 @@
 /**
  * Khaos Forge - TypeScript MCP Protocol Bridge
- * Author: dj
+ * Author: Lucas Mauril
  */
 
 export interface ScopeRule {

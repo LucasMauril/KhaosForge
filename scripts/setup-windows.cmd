@@ -1,7 +1,7 @@
 @echo off
 REM ==============================================================================
 REM Khaos Forge - Windows Environment Provisioner
-REM Author: dj
+REM Author: Lucas Mauril
 REM ==============================================================================
 
 echo [*] Provisioning Khaos Forge on Windows...

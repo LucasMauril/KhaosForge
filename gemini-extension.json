@@ -1,7 +1,7 @@
 {
   "name": "khaos-forge",
   "version": "1.0.0",
-  "author": "dj",
+  "author": "Lucas Mauril",
   "description": "Autonomous cybersecurity forge, red team swarms, and DevSecOps superpowers.",
   "skills": "./skills",
   "contextFileName": "GEMINI.md",

@@ -1,6 +1,6 @@
 ---
 name: telemetry-stealth-monitor
-author: dj
+author: Lucas Mauril
 description: Use when monitoring network flow telemetry, managing noise budgets, evading rate limits, or capturing out-of-band (OOB) vulnerability callbacks.
 ---
 

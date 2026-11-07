@@ -1,7 +1,7 @@
 package main
 
 // Khaos Forge - High-Speed Concurrent Probe Engine
-// Author: dj
+// Author: Lucas Mauril
 
 import (
 	"encoding/json"

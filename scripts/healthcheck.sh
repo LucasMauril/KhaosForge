@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # ==============================================================================
 # Khaos Forge - Environment & Toolchain Healthcheck
-# Author: dj
+# Author: Lucas Mauril
 # ==============================================================================
 
 set -uo pipefail

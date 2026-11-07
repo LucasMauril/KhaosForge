@@ -1,6 +1,6 @@
 ---
 name: executive-threat-reporting
-author: dj
+author: Lucas Mauril
 description: Use when generating professional penetration testing reports, calculating CVSS scores, mapping findings to STRIDE/MITRE ATT&CK, and proposing remediation.
 ---
 

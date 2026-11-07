@@ -1,7 +1,7 @@
 {
   "name": "khaos-forge",
   "version": "1.0.0",
-  "description": "Autonomous cybersecurity forge, red team swarms, and DevSecOps superpowers. Built by dj.",
+  "description": "Autonomous cybersecurity forge, red team swarms, and DevSecOps superpowers. Built by Lucas Mauril.",
   "main": "index.js",
   "bin": {
     "khaos": "./bin/khaos",
@@ -28,7 +28,7 @@
     "mitre-attack",
     "owasp"
   ],
-  "author": "dj",
+  "author": "Lucas Mauril",
   "repository": "https://github.com/LucasMauril/Khaos-Forge.git",
   "homepage": "https://github.com/LucasMauril/Khaos-Forge#readme",
   "license": "Apache-2.0"

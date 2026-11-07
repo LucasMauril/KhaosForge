@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Apex Powers CLI - Autonomous Cybersecurity & Red Team Command Interface
-Author: dj
+Author: Lucas Mauril
 """
 import sys
 import argparse
@@ -63,7 +63,7 @@ def cmd_verify_poc(args):
 def main():
     parser = argparse.ArgumentParser(
         prog="khaos",
-        description="Khaos Forge: Autonomous Cybersecurity & Red Team Engine (by dj)"
+        description="Khaos Forge: Autonomous Cybersecurity & Red Team Engine (by Lucas Mauril)"
     )
     subparsers = parser.add_subparsers(dest="command", required=True)
 

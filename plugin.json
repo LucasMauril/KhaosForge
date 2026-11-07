@@ -1,8 +1,8 @@
 {
   "name": "khaos-forge",
   "version": "1.0.0",
-  "description": "Autonomous cybersecurity forge, red team swarms, and DevSecOps superpowers. Built by dj.",
-  "publisher": "dj",
+  "description": "Autonomous cybersecurity forge, red team swarms, and DevSecOps superpowers. Built by Lucas Mauril.",
+  "publisher": "Lucas Mauril",
   "commands": "./commands",
   "skills": "./skills",
   "suggestedPrompts": [

@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 /**
  * Khaos Forge - Node.js / TypeScript CLI & MCP Runtime Bridge
- * Author: dj
+ * Author: Lucas Mauril
  */
 
 const { spawn } = require('child_process');

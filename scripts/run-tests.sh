@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # ==============================================================================
 # Khaos Forge - Comprehensive Test Suite Runner (Linux / macOS / WSL)
-# Author: dj
+# Author: Lucas Mauril
 # ==============================================================================
 
 set -euo pipefail

@@ -1,6 +1,6 @@
 ---
 name: khaos-orchestrator
-author: dj
+author: Lucas Mauril
 description: Use when launching, managing, or coordinating autonomous penetration tests, multi-agent swarms, and cognitive task trees across targets.
 ---
 

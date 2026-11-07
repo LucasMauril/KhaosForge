@@ -230,7 +230,7 @@ Khaos Forge provides three layers of defense:
 ## Community & Author
 
 Khaos Forge is engineered by **dj**.
-* **Lead Architect:** **dj**
+* **Lead Architect:** **Lucas Mauril**
 * **Repository:** `https://github.com/LucasMauril/Khaos-Forge`
 * **Issues & Bug Reports:** `https://github.com/LucasMauril/Khaos-Forge/issues`
 
@@ -310,7 +310,7 @@ python scripts/sync_references.py
 ## License
 
 Apache License 2.0 - see [LICENSE](LICENSE) file for details.  
-Copyright (c) 2026 **dj**.
+Copyright (c) 2026 **Lucas Mauril**.
 
 ---
 

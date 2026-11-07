@@ -1,6 +1,6 @@
 ---
 name: scope-and-evidence-gate
-author: dj
+author: Lucas Mauril
 description: Use when validating target boundaries, enforcing rules of engagement, or verifying raw differential PoC evidence to eliminate hallucinations.
 ---
 

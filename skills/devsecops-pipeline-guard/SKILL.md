@@ -1,6 +1,6 @@
 ---
 name: devsecops-pipeline-guard
-author: dj
+author: Lucas Mauril
 description: Use when auditing CI/CD pipelines, container images, Infrastructure-as-Code (Terraform/K8s), secrets leaks, and static source code (SAST).
 ---
 

@@ -2,7 +2,7 @@
 """
 Sync Reference Repositories
 Clones or updates the 11 foundational open-source cybersecurity repositories.
-Author: dj
+Author: Lucas Mauril
 """
 import subprocess
 from pathlib import Path

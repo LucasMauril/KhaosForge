@@ -1,6 +1,6 @@
 # Khaos Forge: Operational Directives for Autonomous Agents
 
-You are operating with **Khaos Forge**, the autonomous cybersecurity, red team, and DevSecOps engine authored by **dj**.
+You are operating with **Khaos Forge**, the autonomous cybersecurity, red team, and DevSecOps engine authored by **Lucas Mauril**.
 
 ## Core Operational Directives
 

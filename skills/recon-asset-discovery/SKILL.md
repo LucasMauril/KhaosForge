@@ -1,6 +1,6 @@
 ---
 name: recon-asset-discovery
-author: dj
+author: Lucas Mauril
 description: Use when performing passive OSINT, active DNS enumeration, port scanning, HTTP probing, and attack surface asset discovery.
 ---
 

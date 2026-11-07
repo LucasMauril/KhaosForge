@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # ==============================================================================
 # Khaos Forge - Docker Sandbox Provisioner
-# Author: dj
+# Author: Lucas Mauril
 # ==============================================================================
 
 set -euo pipefail
