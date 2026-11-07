@@ -38,3 +38,4 @@
 - Gold Tier Session #48: co-author gaearon
 - Gold Tier Session #49: co-author antirez
 - Gold Tier Session #50: co-author dchelimsky
+- Gold Tier Session #51: co-author octocat
